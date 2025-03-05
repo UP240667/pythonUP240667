@@ -1,6 +1,5 @@
-print("Ejercicio 21")
-#Writ a script that prompts the user to enter hours and rate per hour. Calculate pay of the person?
-horas_trabajadas=int(input("ingrese las horas trabajadas: "))
-tasa_por_hora=int(input("ingresa la tasa por hora: "))
-Ganancias=(horas_trabajadas*tasa_por_hora)
-print("Ganancia por el total de horas trabajadas: ",Ganancias)
+print("Ejercicio 22")
+#Write a script that prompts the user to enter number of years. Calculate the number of seconds a person can live. Assume a person can live hundred years
+Años=int(input("Ingrese los años de vida: "))
+segundos_de_vida=(31536000 * Años)
+print("El total de segundos de vida comforme a los años ingresados son: ",segundos_de_vida)
