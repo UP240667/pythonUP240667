@@ -151,7 +151,11 @@ Años=int(input("Ingrese los años de vida: "))
 segundos_de_vida=(31536000 * Años)
 print("El total de segundos de vida comforme a los años ingresados son: ",segundos_de_vida)
 
+print("Ejercicio 23")
+#Escriba un script de Python que muestre la siguiente tabla
+for f_1 in range(1,6):
+ print( f_1 ,1,f_1,f_1**2,f_1**3)
 
-
+print("FINAL DE EL DIA 3")
 
 
