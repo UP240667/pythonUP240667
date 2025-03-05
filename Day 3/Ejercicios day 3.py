@@ -156,6 +156,6 @@ print("Ejercicio 23")
 for f_1 in range(1,6):
  print( f_1 ,1,f_1,f_1**2,f_1**3)
 
-print("FINAL DE EL DIA 3")
+print("FINAL DE EL DIA 3.")
 
 
